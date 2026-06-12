@@ -1,4 +1,4 @@
-# Shohreh Zolala
+# Shohre Zolala
 
 I am a PhD student in Software Engineering and a Graduate Teaching Assistant at Islamic Azad University, Kerman Branch. My academic work focuses on algorithm design and optimization, machine learning, and data science, with a particular interest in building efficient predictive models for tabular data.
 
